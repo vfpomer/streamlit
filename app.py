@@ -318,3 +318,4 @@ fig_titanic.update_layout(template="plotly_white", height=400)
 
 # Mostrar el gráfico en la aplicación
 st.plotly_chart(fig_titanic, use_container_width=True)
+
